@@ -1,0 +1,105 @@
+nav{
+    text-align: center;
+    background-color: #464646;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    margin:0;
+    z-index: 1000;
+    padding: 15px 0;
+}
+
+nav a{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    padding:10px 15px;
+    transition: color 0.3s ease-in-out;
+    left: 0;
+    top:0;
+}
+
+nav a:hover{
+    background-color: red;
+    
+}
+
+h1{
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 3px 5px 3px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 5px solid #333;
+}
+body p{
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    box-shadow: 1px 2px 1px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 2px solid #7d7c7c;
+    border-radius: 8px;
+}
+
+body{
+    background-color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+h2{
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 3px 5px 3px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 5px solid #333;
+}
+h3{
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 3px 5px 3px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 5px solid #333;
+}
+
+h4{
+    border-radius: 8px;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    box-shadow: 3px 5px 3px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 5px solid #333;
+}
+
+.main_body{
+    padding: 20px;
+}
+body ol{
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    box-shadow: 1px 2px 1px rgb(88, 87, 87);
+    background-color: #f9f9f9;
+    border: 2px solid #7d7c7c;
+    border-radius: 8px;
+}
+
+.safe{
+    background-color: rgb(121, 255, 135);
+}
+
+.euclid{
+    background-color: rgb(158, 72, 72);
+}
